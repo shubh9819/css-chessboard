@@ -1,0 +1,31 @@
+.out_box{
+    height:655px;
+    width:656px;
+    border:solid 4px black;
+    background-color:rgb(239, 26, 239);
+    margin:auto;
+
+}
+.row_box{
+    height:82px;
+    width:656px;
+    border:solid 1px black;
+    
+}
+.white_box{
+    height:82px;
+    width:82px;
+    background-color:rgb(241, 174, 174);
+    border:black;
+    float:left;
+    text-align:center;
+    font-size:70px;
+}
+.black_box{
+    height:82px;
+    width:82px;
+    background-color:rgb(180, 74, 162);
+    float:left;
+    text-align:center;
+    font-size:70px;
+}
