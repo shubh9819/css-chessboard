@@ -1,1 +1,1 @@
-# css-javascipt-chessboard
+# css-chessboard
